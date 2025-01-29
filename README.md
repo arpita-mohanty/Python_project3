@@ -5,9 +5,13 @@ This project implements a simple neural network to classify emails as spam or no
 
 
 #Features:
+
 Uses Scikit-learn for data preprocessing and feature scaling
 
 Implements a custom neural network with one hidden layer
+
 Trains the model using gradient descent with backpropagation
+
 Evaluates model performance using accuracy score
+
 Utilizes NLTK for potential text processing (optional)
